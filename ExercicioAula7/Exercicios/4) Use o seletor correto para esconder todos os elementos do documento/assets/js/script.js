@@ -1,0 +1,9 @@
+$(document).ready(function(){
+		    $("h1").hide();
+		});
+$(document).ready(function(){
+		    $("p").hide();
+		});
+$(document).ready(function(){
+		    $("button").hide();
+		});
