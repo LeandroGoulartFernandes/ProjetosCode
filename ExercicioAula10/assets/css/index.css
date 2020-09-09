@@ -1,0 +1,21 @@
+body{
+	background-image: url("../img/1.jpg");
+	background-repeat: no-repeat;
+ 	background-color: #cccccc;
+ 	height: 500px; 
+    background-position: center;
+    background-size: cover;
+}
+
+body main p.lead{
+	color: #75dcf3;
+	font-style: italic;
+	font-family: verdana;
+}
+
+body h3.masthead-brand{
+	color: #75dcf3;
+	font-style: italic;
+	font-family: verdana;
+}
+
